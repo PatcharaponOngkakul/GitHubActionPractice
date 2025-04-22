@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "fireship-lessons"
-  }
+    "default": "project-10b44",
+    "staging": "project-10b44"
+  },
+  "targets": {},
+  "etags": {}
 }
